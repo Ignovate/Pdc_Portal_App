@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668143387343",
+    "firebase_url": "https://pdc-orders.firebaseio.com",
+    "project_id": "pdc-orders",
+    "storage_bucket": "pdc-orders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668143387343:android:0366d7ca9a383435",
+        "android_client_info": {
+          "package_name": "com.pdc.order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668143387343-u53e0qivi1ei04qm9cgki8qo7ga1ovnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1FFnm3kleyZbT3Z59-BIIDmzSigPlHQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
